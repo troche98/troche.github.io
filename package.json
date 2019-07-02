@@ -1,0 +1,14 @@
+{
+  "name": "node-js-template",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
